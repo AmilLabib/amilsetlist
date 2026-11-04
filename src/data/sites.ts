@@ -18,4 +18,8 @@ export const sites: Site[] = [
     name: "Makarim",
     url: "https://makarim.vercel.app",
   },
+  {
+    name: "Spot Downloader",
+    url: "https://github.com/AmilLabib/spot-downloader",
+  }
 ];
